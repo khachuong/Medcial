@@ -1,0 +1,345 @@
+
+/* Class = "UILabel"; text = "Choose a specific disease"; ObjectID = "0L4-5J-9Fn"; */
+"0L4-5J-9Fn.text" = "Choose a specific disease";
+
+/* Class = "UINavigationItem"; title = "Friends list"; ObjectID = "0gD-Hv-nOH"; */
+"0gD-Hv-nOH.title" = "Friends list";
+
+/* Class = "UITextView"; text = "Provide many useful information related to medical care and treatment"; ObjectID = "1kG-AR-Zjn"; */
+"1kG-AR-Zjn.text" = "Provide many useful information related to medical care and treatment";
+
+/* Class = "UINavigationItem"; title = "List of hospitals"; ObjectID = "2rv-Bk-CEO"; */
+"2rv-Bk-CEO.title" = "List of hospitals";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "4b1-6M-uVR"; */
+"4b1-6M-uVR.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "60h-Sv-rVc"; */
+"60h-Sv-rVc.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6DD-EL-ee9"; */
+"6DD-EL-ee9.text" = "0";
+
+/* Class = "UILabel"; text = "Choose kind of disease"; ObjectID = "74Q-nj-jSn"; */
+"74Q-nj-jSn.text" = "Choose kind of disease";
+
+/* Class = "UIButton"; normalTitle = "Signup new account"; ObjectID = "7nD-WZ-Zyt"; */
+"7nD-WZ-Zyt.normalTitle" = "Signup new account";
+
+/* Class = "UILabel"; text = "Sign-up"; ObjectID = "7oP-Rj-fsf"; */
+"7oP-Rj-fsf.text" = "Sign-up";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "843-Nz-8xv"; */
+"843-Nz-8xv.text" = "Username";
+
+/* Class = "UITabBarItem"; title = "Concern"; ObjectID = "8Hn-CI-GbW"; */
+"8Hn-CI-GbW.title" = "Concern";
+
+/* Class = "UILabel"; text = "Doctors - Specialist"; ObjectID = "8Xv-yb-DSl"; */
+"8Xv-yb-DSl.text" = "Doctors - Specialist";
+
+/* Class = "UITabBarItem"; title = "Timeline"; ObjectID = "9oe-Gc-gQc"; */
+"9oe-Gc-gQc.title" = "Timeline";
+
+/* Class = "UILabel"; text = "Đang chờ chấp nhận"; ObjectID = "ABR-3F-s1r"; */
+"ABR-3F-s1r.text" = "Đang chờ chấp nhận";
+
+/* Class = "UILabel"; text = "Answered       0"; ObjectID = "BNY-sm-5an"; */
+"BNY-sm-5an.text" = "Answered       0";
+
+/* Class = "UITextField"; placeholder = "Your email"; ObjectID = "Bs6-6d-nOu"; */
+"Bs6-6d-nOu.placeholder" = "Your email";
+
+/* Class = "UILabel"; text = "username"; ObjectID = "Cyr-j9-Zoo"; */
+"Cyr-j9-Zoo.text" = "username";
+
+/* Class = "UINavigationItem"; title = "Hospital"; ObjectID = "D6I-Wx-E3b"; */
+"D6I-Wx-E3b.title" = "Hospital";
+
+/* Class = "UINavigationItem"; title = "List of questions"; ObjectID = "DEq-E2-Oro"; */
+"DEq-E2-Oro.title" = "List of questions";
+
+/* Class = "UILabel"; text = "Friends         0"; ObjectID = "Duo-OK-fdn"; */
+"Duo-OK-fdn.text" = "Friends         0";
+
+/* Class = "UILabel"; text = "Số trả lời:"; ObjectID = "EB4-J3-5B0"; */
+"EB4-J3-5B0.text" = "Số trả lời:";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "EDl-4t-oKt"; */
+"EDl-4t-oKt.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Answered       0"; ObjectID = "FSg-ve-Vg3"; */
+"FSg-ve-Vg3.text" = "Answered       0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "GLK-KH-zad"; */
+"GLK-KH-zad.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Thêm bạn"; ObjectID = "GSa-XG-OU4"; */
+"GSa-XG-OU4.normalTitle" = "Thêm bạn";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I1K-ii-PNO"; */
+"I1K-ii-PNO.text" = "Label";
+
+/* Class = "UILabel"; text = "a social network for medical"; ObjectID = "IDv-Fq-lDY"; */
+"IDv-Fq-lDY.text" = "a social network for medical";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JdR-qp-7BH"; */
+"JdR-qp-7BH.text" = "Label";
+
+/* Class = "UILabel"; text = "Bạn bè"; ObjectID = "JuW-He-jvo"; */
+"JuW-He-jvo.text" = "Bạn bè";
+
+/* Class = "UILabel"; text = "Answers:"; ObjectID = "KC9-vE-dxz"; */
+"KC9-vE-dxz.text" = "Answers:";
+
+/* Class = "UITextField"; placeholder = "Change new password"; ObjectID = "L3U-T1-3Vg"; */
+"L3U-T1-3Vg.placeholder" = "Change new password";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "LTQ-gH-ADP"; */
+"LTQ-gH-ADP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "App Information"; ObjectID = "Lj2-j0-c7J"; */
+"Lj2-j0-c7J.text" = "App Information";
+
+/* Class = "UINavigationItem"; title = "List of doctors"; ObjectID = "LjA-PI-EtV"; */
+"LjA-PI-EtV.title" = "List of doctors";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "LmG-eR-Tih"; */
+"LmG-eR-Tih.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Hospital information"; ObjectID = "M1X-Bv-2Lg"; */
+"M1X-Bv-2Lg.text" = "Hospital information";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MNf-aN-ss0"; */
+"MNf-aN-ss0.text" = "Label";
+
+/* Class = "UILabel"; text = "Answers:"; ObjectID = "Mme-N6-BY6"; */
+"Mme-N6-BY6.text" = "Answers:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NEC-fL-BMC"; */
+"NEC-fL-BMC.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Forgot password"; ObjectID = "NW4-a4-tyJ"; */
+"NW4-a4-tyJ.normalTitle" = "Forgot password";
+
+/* Class = "UITextField"; placeholder = "Full name"; ObjectID = "NjR-b3-eVB"; */
+"NjR-b3-eVB.placeholder" = "Full name";
+
+/* Class = "UILabel"; text = "Send me other password"; ObjectID = "OaX-pf-ycM"; */
+"OaX-pf-ycM.text" = "Send me other password";
+
+/* Class = "UITextView"; text = "Know how to protect you and your family is very important"; ObjectID = "OhH-TM-Fvm"; */
+"OhH-TM-Fvm.text" = "Know how to protect you and your family is very important";
+
+/* Class = "UILabel"; text = "Asked               0"; ObjectID = "Oil-xa-gql"; */
+"Oil-xa-gql.text" = "Asked               0";
+
+/* Class = "UILabel"; text = "a social network for medical"; ObjectID = "Ow2-uu-grs"; */
+"Ow2-uu-grs.text" = "a social network for medical";
+
+/* Class = "UILabel"; text = "a social network for medical"; ObjectID = "Q5D-jj-CBu"; */
+"Q5D-jj-CBu.text" = "a social network for medical";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Qnp-1O-cB1"; */
+"Qnp-1O-cB1.text" = "0";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "R6J-Gm-faM"; */
+"R6J-Gm-faM.text" = "Logout";
+
+/* Class = "UILabel"; text = "Kind of disease"; ObjectID = "RDN-Zo-k5c"; */
+"RDN-Zo-k5c.text" = "Kind of disease";
+
+/* Class = "UILabel"; text = "Questions I asked"; ObjectID = "RDW-ZU-kYo"; */
+"RDW-ZU-kYo.text" = "Questions I asked";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "S1Y-uL-09D"; */
+"S1Y-uL-09D.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "SdW-Y2-Qfr"; */
+"SdW-Y2-Qfr.text" = "Full Name";
+
+/* Class = "UILabel"; text = "Friends         0"; ObjectID = "T4w-pW-qxg"; */
+"T4w-pW-qxg.text" = "Friends         0";
+
+/* Class = "UILabel"; text = "BIRTH"; ObjectID = "Tp6-iY-HzF"; */
+"Tp6-iY-HzF.text" = "BIRTH";
+
+/* Class = "UIButton"; normalTitle = "Support center"; ObjectID = "U2P-wB-UMt"; */
+"U2P-wB-UMt.normalTitle" = "Support center";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "U3Y-5F-UI1"; */
+"U3Y-5F-UI1.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "UVY-og-UiR"; */
+"UVY-og-UiR.text" = "0";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "Uyh-1Q-Ss1"; */
+"Uyh-1Q-Ss1.text" = "Setting";
+
+/* Class = "UITextView"; text = "Doctors, specialists has reviewd by experiments, vote by user"; ObjectID = "W94-RA-Txg"; */
+"W94-RA-Txg.text" = "Doctors, specialists has reviewd by experiments, vote by user";
+
+/* Class = "UILabel"; text = "Kinh nghiệm"; ObjectID = "WFj-rw-end"; */
+"WFj-rw-end.text" = "Kinh nghiệm";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XeR-RA-6FV"; */
+"XeR-RA-6FV.text" = "Label";
+
+/* Class = "UILabel"; text = "Post"; ObjectID = "Y3t-Ga-AIX"; */
+"Y3t-Ga-AIX.text" = "Post";
+
+/* Class = "UINavigationItem"; title = "Sửa câu hỏi của bạn"; ObjectID = "YFO-4N-S7K"; */
+"YFO-4N-S7K.title" = "Sửa câu hỏi của bạn";
+
+/* Class = "UILabel"; text = "MOBILE"; ObjectID = "YWS-x3-K2n"; */
+"YWS-x3-K2n.text" = "MOBILE";
+
+/* Class = "UILabel"; text = "Medical knowledge"; ObjectID = "Yog-py-6YL"; */
+"Yog-py-6YL.text" = "Medical knowledge";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Yqy-ba-Wws"; */
+"Yqy-ba-Wws.text" = "0";
+
+/* Class = "UILabel"; text = "Experiment"; ObjectID = "Ytt-UO-5aS"; */
+"Ytt-UO-5aS.text" = "Experiment";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Z5d-sB-qUF"; */
+"Z5d-sB-qUF.text" = "Label";
+
+/* Class = "UILabel"; text = "Asked              0"; ObjectID = "ZIW-ei-TDm"; */
+"ZIW-ei-TDm.text" = "Asked              0";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "Zd3-Xt-Bws"; */
+"Zd3-Xt-Bws.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Hide my name in this question"; ObjectID = "a0n-We-PtH"; */
+"a0n-We-PtH.text" = "Hide my name in this question";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "aAx-RO-96A"; */
+"aAx-RO-96A.text" = "Username";
+
+/* Class = "UILabel"; text = "Kinh nghiệm"; ObjectID = "aqV-Qz-Oen"; */
+"aqV-Qz-Oen.text" = "Kinh nghiệm";
+
+/* Class = "UIButton"; normalTitle = "Quan Tâm"; ObjectID = "bAQ-u5-HMt"; */
+"bAQ-u5-HMt.normalTitle" = "Quan Tâm";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "bwQ-FD-wnG"; */
+"bwQ-FD-wnG.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "byF-gQ-gxr"; */
+"byF-gQ-gxr.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Department"; ObjectID = "c89-0s-N51"; */
+"c89-0s-N51.text" = "Department";
+
+/* Class = "UILabel"; text = "My Profile"; ObjectID = "dAu-Kw-XXI"; */
+"dAu-Kw-XXI.text" = "My Profile";
+
+/* Class = "UITextView"; text = "Raise a question and get support from doctor, specialist. You also can support other people"; ObjectID = "dyi-UH-ReU"; */
+"dyi-UH-ReU.text" = "Raise a question and get support from doctor, specialist. You also can support other people";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "fA9-wc-Xr6"; */
+"fA9-wc-Xr6.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "fEg-fg-Rvx"; */
+"fEg-fg-Rvx.text" = "0";
+
+/* Class = "UILabel"; text = "Doctors:"; ObjectID = "fVu-EU-0bu"; */
+"fVu-EU-0bu.text" = "Doctors:";
+
+/* Class = "UILabel"; text = "PASSWORD"; ObjectID = "fln-CA-inY"; */
+"fln-CA-inY.text" = "PASSWORD";
+
+/* Class = "UINavigationItem"; title = "Hospital information"; ObjectID = "goE-gl-2t2"; */
+"goE-gl-2t2.title" = "Hospital information";
+
+/* Class = "UINavigationItem"; title = "List of provinces"; ObjectID = "ho0-wQ-HnK"; */
+"ho0-wQ-HnK.title" = "List of provinces";
+
+/* Class = "UILabel"; text = "Kinh nghiệm"; ObjectID = "hqd-29-s7D"; */
+"hqd-29-s7D.text" = "Kinh nghiệm";
+
+/* Class = "UILabel"; text = "Experiment"; ObjectID = "iQn-h4-lKV"; */
+"iQn-h4-lKV.text" = "Experiment";
+
+/* Class = "UILabel"; text = "Medical information"; ObjectID = "j6z-vH-SO4"; */
+"j6z-vH-SO4.text" = "Medical information";
+
+/* Class = "UITabBarItem"; title = "Dashboard"; ObjectID = "l2y-ZE-k3Q"; */
+"l2y-ZE-k3Q.title" = "Dashboard";
+
+/* Class = "UITextView"; text = "With these information you can find the hospital info such as address, direction, telephone"; ObjectID = "lKc-qU-8aI"; */
+"lKc-qU-8aI.text" = "With these information you can find the hospital info such as address, direction, telephone";
+
+/* Class = "UILabel"; text = "List of diseases"; ObjectID = "lnD-U1-0J2"; */
+"lnD-U1-0J2.text" = "List of diseases";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "m4L-jC-53O"; */
+"m4L-jC-53O.text" = "0";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "n3M-rX-KQv"; */
+"n3M-rX-KQv.text" = "ADDRESS";
+
+/* Class = "UILabel"; text = "Friends"; ObjectID = "ptB-NV-dgP"; */
+"ptB-NV-dgP.text" = "Friends";
+
+/* Class = "UINavigationItem"; title = "Raise new question"; ObjectID = "qEt-vA-QIe"; */
+"qEt-vA-QIe.title" = "Raise new question";
+
+/* Class = "UILabel"; text = "Tieu de"; ObjectID = "r8g-zF-1m9"; */
+"r8g-zF-1m9.text" = "Tieu de";
+
+/* Class = "UILabel"; text = "Answers:"; ObjectID = "sLY-sy-Nbz"; */
+"sLY-sy-Nbz.text" = "Answers:";
+
+/* Class = "UILabel"; text = "Experiment"; ObjectID = "slX-1T-hcb"; */
+"slX-1T-hcb.text" = "Experiment";
+
+/* Class = "UINavigationItem"; title = "List of diseases"; ObjectID = "sss-bo-uY2"; */
+"sss-bo-uY2.title" = "List of diseases";
+
+/* Class = "UIButton"; normalTitle = "Support center"; ObjectID = "t2X-W3-Gzy"; */
+"t2X-W3-Gzy.normalTitle" = "Support center";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "t59-Lf-H9n"; */
+"t59-Lf-H9n.text" = "Username";
+
+/* Class = "UITextView"; text = "Status"; ObjectID = "tah-lg-N9Z"; */
+"tah-lg-N9Z.text" = "Status";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "uap-Ti-VR8"; */
+"uap-Ti-VR8.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uof-r0-GDo"; */
+"uof-r0-GDo.text" = "Label";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "vI4-7y-k3t"; */
+"vI4-7y-k3t.text" = "EMAIL";
+
+/* Class = "UINavigationItem"; title = "Departments"; ObjectID = "vzi-Fm-9YX"; */
+"vzi-Fm-9YX.title" = "Departments";
+
+/* Class = "UITextField"; placeholder = "What's on your mind?"; ObjectID = "wEX-GQ-CxE"; */
+"wEX-GQ-CxE.placeholder" = "What's on your mind?";
+
+/* Class = "UILabel"; text = "Specific disease"; ObjectID = "wYc-e8-7XU"; */
+"wYc-e8-7XU.text" = "Specific disease";
+
+/* Class = "UILabel"; text = "Sign-in"; ObjectID = "wve-wM-GCC"; */
+"wve-wM-GCC.text" = "Sign-in";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "wz6-UI-xUY"; */
+"wz6-UI-xUY.text" = "0";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "xqE-un-Lwt"; */
+"xqE-un-Lwt.text" = "Title";
+
+/* Class = "UITextField"; placeholder = "Mobile number"; ObjectID = "y1E-8F-wVX"; */
+"y1E-8F-wVX.placeholder" = "Mobile number";
+
+/* Class = "UILabel"; text = "time"; ObjectID = "yxb-NY-3KW"; */
+"yxb-NY-3KW.text" = "time";
+
+/* Class = "UILabel"; text = "Kinh nghiệm"; ObjectID = "z13-qG-3jZ"; */
+"z13-qG-3jZ.text" = "Kinh nghiệm";
